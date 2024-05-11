@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(233, 233, 233) ;
+    margin: 100px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.card{
+    width: 400px;
+    box-shadow: 15% black;
+    padding:20px;
+}
+button{
+    background-color: rgb(241, 157, 0);
+    padding: 5px;
+    border-radius: 50%;
+    color: white;
+}
+h3{
+    color: rgb(241, 157, 0);
+}
+img{
+    width: 70px;
+    border-radius: 50%;
+}
